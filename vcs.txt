@@ -1,0 +1,6 @@
+VERSION CONTROL SYSTEM:
+
+Git is a version control system which helps us to manage our project files and trackes the history.Our project files may be HTML,
+CSS,JS,Images etc.VCS are the most commonly run as stand-alone applications, but revision control is also embedded in various types 
+of softwares such as word processors and  spread sheets,collaborative and feature branches.The need for the logical way to organise
+ and control revisions has existed for almost as long as writing has existed.
